@@ -5,3 +5,5 @@
 - [X] Adicionando imagens.
 - [X] Modificando CSS adicionalmente ao padrão bootstrap.
 - [ ] Site ainda pode ser melhorado.
+
+Site usado: view-source:https://getbootstrap.com/docs/5.0/examples/carousel/
