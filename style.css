@@ -1,0 +1,42 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #A9BCF5!important;
+}
+
+.quem-somos {
+  background-color: #F5BCA9;
+  color: white;
+}
+
+.margin {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.logotipo {
+  border-radius: 50%;
+}
+
+.parceiros {
+  background-color: #F2F5A9;
+  font-family: monospace;
+  color: blue;
+}
+
+.servicos {
+  background-color: #D8D8D8;
+  font-family: monospace;
+  color: rgb(110, 123, 199);
+}
+
+.color-text {
+  color: white;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+}
